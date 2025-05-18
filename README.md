@@ -1,1 +1,1 @@
-[![DrWarpMan's Github Stats](https://github-readme-stats.vercel.app/api?username=drwarpman&theme=holi&border_radius=0&hide_rank=true&show_icons=true)](https://github.com/DrWarpMan)
+[![DrWarpMan's Github Stats](https://github-readme-stats.vercel.app/api?username=drwarpman&theme=holi&border_radius=0&hide_rank=true&show_icons=true&custom_title=DrWarpMan%27s%20Github%20Stats)](https://github.com/DrWarpMan)
